@@ -1,0 +1,52 @@
+BODY {
+    background-color: black;
+    height: 100vh;
+}
+.NAVBAR {
+    background-color: black;
+}
+.UL-NAVBAR {
+    display: flex;
+    height: 100px;
+    justify-content: center;
+    align-items: center;
+}
+
+.LI-NAVBAR {
+    color: aliceblue;
+    list-style-type: none;
+    padding: 20px;
+    margin: 5px;
+    border: SOLID white;
+}
+
+.DIV-CONTENT1 {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.IMG-CONTENT1 {
+    width: 50%;
+    height: 50%;
+}
+
+.PJ-APLIKOM {
+    color: aliceblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.a-navbar {
+    color: white;
+}
+
+.li-navbar:hover {
+    background-color: rgb(25, 25, 140);
+    transition: ease-in-out;
+}
+
+.IMG-CONTENT2 {
+    width: 30%;
+    height: 30%;
+}
